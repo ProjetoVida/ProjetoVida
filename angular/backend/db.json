@@ -1,0 +1,16 @@
+{
+    "cadastro": [
+        {
+            "id": 1,
+            "nome": "Antonio Junio Pardim",
+            "senha": 123455,
+            "email": "antonio@hotmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "Francis",
+            "senha": 123455,
+            "email": "antonio@hotmail.com"
+        }
+    ]
+}

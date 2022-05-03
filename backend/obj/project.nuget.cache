@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQX0PysIV9pk8uydOSTSFxizuQES5Ldx+2QmN4PG0gFoix5mIwPiV5JR/ET78B67ytPlfmRbKSX/o7/IE62++w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antonio.pardim\\Desktop\\projeto4\\ProjetoVida\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\antonio.pardim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
